@@ -6,7 +6,6 @@ The reuse and editing of code is appreciate
 and ya sorry for my bad english :)
 '''
 import requests
-import csv
 import random
 import string
 from bs4 import BeautifulSoup
