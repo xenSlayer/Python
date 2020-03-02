@@ -2,7 +2,7 @@ To split a string and create a list out of it:
 
 s = 'Hello there sir how are you'
 print(s.split())
-op = [ ' Hello', ' there', ' sir '...]
+op = [ ' Hello', ' there', ' sir ']
 
 ***********************************************
 
