@@ -1,0 +1,30 @@
+To split a string and create a list out of it:
+
+s = 'Hello there sir how are you'
+print(s.split())
+op = [ ' Hello', ' there', ' sir '...]
+
+***********************************************
+
+To join the list items and create a string:
+
+s = [ ' Hello', ' there', ' sir ']
+print( ' '.join(s))
+op = ' Hello there sir'
+
+***********************************************
+
+To replace a string:
+
+let s = ' Hey there sir'
+let k = 'Hello'
+print(s.replace(s, k))
+op = 'Hello'
+
+
+************************************************
+
+
+
+
+
