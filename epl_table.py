@@ -1,5 +1,5 @@
 '''
-This script is written by Kiran paudel
+This script is written by XenSlayer
 This simple program scraps online websites[onefootball, premierleague.com, goal.com, footlive.com] to fetch English premier league table data
 The data obtained is saved in a csv file
 Re-use and improvement of the code is well appreciated
